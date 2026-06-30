@@ -1,2 +1,5 @@
-# Linux-practice
-There are some Linux basic script which are mainly used in Devops 
+# 🚀 DevOps Learning Journey
+
+Welcome to my DevOps learning repository.
+
+This repository documents my complete DevOps learning journey through notes, hands-on practice, scripts, mini-projects, and real-world exercises.
