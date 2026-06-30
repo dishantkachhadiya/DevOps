@@ -1,0 +1,7 @@
+Rahul DevOps 45000
+Amit AWS 50000
+Priya Docker 60000
+Rohit Kubernetes 70000
+Sneha DevOps 65000
+John Linux 55000
+Akash AWS 72000

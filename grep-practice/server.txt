@@ -1,0 +1,6 @@
+Ubuntu
+Amazon Linux
+RedHat
+CentOS
+Ubuntu Server
+Debian
