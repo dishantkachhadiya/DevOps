@@ -1,0 +1,17 @@
+# Log files
+*.log
+
+# Temporary files
+*.tmp
+
+# Backup files
+*.bak
+
+# Vim swap files
+*.swp
+
+# macOS files
+.DS_Store
+
+# Windows thumbnail cache
+Thumbs.db
