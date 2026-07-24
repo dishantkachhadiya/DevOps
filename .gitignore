@@ -15,3 +15,11 @@
 
 # Windows thumbnail cache
 Thumbs.db
+
+# Terraform
+**/.terraform/
+**/*.tfstate
+**/*.tfstate.*
+**/crash.log
+**/*.tfvars
+**/*.tfvars.json
