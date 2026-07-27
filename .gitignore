@@ -1,25 +1,60 @@
-# Log files
-*.log
+# ============================================================
+# DevOps Repository — .gitignore
+# ============================================================
 
-# Temporary files
-*.tmp
-
-# Backup files
-*.bak
-
-# Vim swap files
-*.swp
-
-# macOS files
-.DS_Store
-
-# Windows thumbnail cache
-Thumbs.db
-
+# ---------------------------
 # Terraform
+# ---------------------------
 **/.terraform/
+**/.terraform.tfstate.lock.info
 **/*.tfstate
 **/*.tfstate.*
 **/crash.log
+**/crash.*.log
 **/*.tfvars
 **/*.tfvars.json
+**/override.tf
+**/override.tf.json
+**/*_override.tf
+**/*_override.tf.json
+**/.terraformrc
+**/terraform.rc
+
+# ---------------------------
+# Secrets & credentials
+# ---------------------------
+*.pem
+*.key
+.env
+.env.*
+**/secrets/
+**/*credentials*
+
+# ---------------------------
+# Logs & temp files
+# ---------------------------
+*.log
+*.tmp
+*.bak
+*.swp
+*.swo
+
+# ---------------------------
+# OS-generated files
+# ---------------------------
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# ---------------------------
+# Editor / IDE files
+# ---------------------------
+.vscode/
+.idea/
+*.sublime-workspace
+
+# ---------------------------
+# Archives (avoid committing large binary backups)
+# ---------------------------
+*.tar.gz
+*.zip
