@@ -87,4 +87,4 @@ sudo systemctl enable --now myscript.service
 ```
 
 ## 🔗 See also
-- [journald.md](./journald.md) — `journalctl -u <service>` to debug a failing unit 
+- [Journald](../Journald/journald.md) — `journalctl -u <service>` to debug a failing unit
