@@ -124,5 +124,5 @@ fi
 ```
 
 ## 🔗 See also
-- [grep-sed-awk.md](./grep-sed-awk.md) — text processing used heavily inside scripts
-- [cron.md](./cron.md) — scheduling these scripts to run automatically
+- [Grep-Sed-Awk](../Grep-Sed-Awk/grep-sed-awk.md) — text processing used heavily inside scripts
+- [Cron](../Cron/cron.md) — scheduling these scripts to run automatically
