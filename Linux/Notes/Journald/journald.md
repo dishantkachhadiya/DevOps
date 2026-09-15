@@ -77,4 +77,4 @@ journalctl -u myscript.service -b --no-pager
 Shows every log line from `myscript.service` during the current boot only — no noise from other services or previous boots.
 
 ## 🔗 See also
-- [systemd.md](./systemd.md) — services that journald logs for
+- [Systemd](../Systemd/systemd.md) — services that journald logs 
