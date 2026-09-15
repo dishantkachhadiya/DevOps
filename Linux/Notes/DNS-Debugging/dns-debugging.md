@@ -82,4 +82,4 @@ resolvectl query example.com   # query using resolvectl
 ```
 
 ## 🔗 See also
-- [journald.md](./journald.md) — check `journalctl -u systemd-resolved` for resolver errors
+- [Journald](../Journald/journald.md) — check `journalctl -u systemd-resolved` for resolver errors
