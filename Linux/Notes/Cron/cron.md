@@ -61,5 +61,5 @@ grep CRON /var/log/syslog   # older / non-systemd systems
 > Always use **full paths** in your scripts and commands, or explicitly `source` your profile at the top of the script.
 
 ## 🔗 See also
-- [bash-scripting.md](./bash-scripting.md) — scripts you'll typically schedule
-- [journald.md](./journald.md) — `journalctl -u cron` for debugging
+- [Bash-Scripting](../Bash-Scripting/bash-scripting.md) — scripts you'll typically schedule
+- [Journald](../Journald/journald.md) — `journalctl -u cron` for debugging
