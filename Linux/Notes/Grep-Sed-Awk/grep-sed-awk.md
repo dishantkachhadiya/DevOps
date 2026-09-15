@@ -67,5 +67,5 @@ awk -F, '$3 == "success" {sum += $2} END {print sum}' data.csv
 ```
 
 ## 🔗 See also
-- [Grep-Sed-Awk](../Grep-Sed-Awk/grep-sed-awk.md) — text processing used heavily inside scripts
-- [Cron](../Cron/cron.md) — scheduling these scripts to run automatically
+- [Bash-Scripting](../Bash-Scripting/bash-scripting.md) — these tools used inside scripts
+- [Disk-Memory-Analysis](../Disk-Memory-Analysis/disk-memory-analysis.md) — `sort -rh` used alongside `du`
