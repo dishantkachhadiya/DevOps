@@ -59,5 +59,5 @@ ps aux --sort=-%mem | head -5
 ```
 
 ## 🔗 See also
-- [bash-scripting.md](./bash-scripting.md) — automate disk alerts (see the disk space script example)
-- [cron.md](./cron.md) — schedule regular disk/memory checks
+- [Bash-Scripting](../Bash-Scripting/bash-scripting.md) — automate disk alerts (see the disk space script example)
+- [Cron](../Cron/cron.md) — schedule regular disk/memory checks
