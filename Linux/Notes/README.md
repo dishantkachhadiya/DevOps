@@ -6,7 +6,7 @@ Personal reference notes for Linux internals — quick recall.
 
 | File | Covers |
 |---|---|
-| [`systemd.md`](../systemd.md) | Services, unit files, `systemctl`, boot analysis |
+| [`systemd.md`](./systemd.md) | Services, unit files, `systemctl`, boot analysis |
 | [`journald.md`](./journald.md) | `journalctl` log querying, filtering, retention |
 | [`bash-scripting.md`](./bash-scripting.md) | Scripting basics, loops, conditionals, functions |
 | [`disk-memory-analysis.md`](./disk-memory-analysis.md) | `df`, `du`, `free`, `top`, `iostat`, `vmstat` |
