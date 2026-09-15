@@ -1,6 +1,0 @@
-Rahul DevOps
-Amit AWS
-Priya Docker
-John Linux
-Sneha Kubernetes
-Rahul AWS
